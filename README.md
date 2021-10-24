@@ -7,7 +7,8 @@ With Covid being at the forefornt of discussion for what feels like an eternity,
 # Group details and communication protocols
 With any group work communication is key. It is very important that all group member understand their role within the group. When starting a group task the end result can be daunting and team members can feel anxious. With proper communication these feeling of anxeity can be eased. By each person knowing and completing their role, the end result will be easier to reach. Our main method of communication will be through Slack. By using using we are easily able to instant message not just each other important information and links, but everyone at the same time. This ensures that no one is left out of what is being dicussed. As a back up, all group members have each other cell phone number incase their is an emergency and something needs to be addressed fast.
 
-![Slack screen shot for project](https://user-images.githubusercontent.com/85597990/138601377-5e1644e3-40be-4407-a290-8744731adc23.png)
+-------
+![Slack screen shot 3](https://user-images.githubusercontent.com/85597990/138601537-35126917-5a92-428e-8071-7f877823094b.png)
 
 ![Slack screen shot 2 for project](https://user-images.githubusercontent.com/85597990/138601442-47bcbcc1-7a28-41e8-9e4f-6dd3df717326.png)
-
+-------
