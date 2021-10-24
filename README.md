@@ -20,3 +20,4 @@ Before diving too deep into the project itself, first the data needed to be disc
 
 # Creation of Branches
 Along with cleaning of data, the creation of Branches is a crucial part of the project. Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. 
+ 
