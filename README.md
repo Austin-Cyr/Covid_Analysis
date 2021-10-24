@@ -11,7 +11,7 @@ With any group work communication is key. It is very important that all group me
 
 ![Slack screen shot 3](https://user-images.githubusercontent.com/85597990/138601537-35126917-5a92-428e-8071-7f877823094b.png) 
 
-![Slack screen shot 2 for project](https://user-images.githubusercontent.com/85597990/138601442-47bcbcc1-7a28-41e8-9e4f-6dd3df717326.png)
+![Slack screen shot 4 for project](https://user-images.githubusercontent.com/85597990/138602904-db29afa6-0477-4d1c-8b28-8562fbb7b501.png)
 
 -------
 
