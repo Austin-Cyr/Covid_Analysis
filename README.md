@@ -15,9 +15,14 @@ With any group work communication is key. It is very important that all group me
 
 -------
 
-# First things first
-Before diving too deep into the project itself, first the data needed to be discovered and then cleaned. Through out the last year and half+, data for Covid has been collected, to our surprise in great and detailed numbers. Almost all state-counties-states, but not all, have reported data on the cases and hospitalization rates. One state that does not report numbers like most is Texas. Although they do not have the same data as other States its important to recognize this and not just pretend Texas doesn't exist- By not knowing the cases numbers is a risk in itself.
-
 # Creation of Branches
 Along with cleaning of data, the creation of Branches is a crucial part of the project. Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. 
  
+------
+
+![Branch screenshot for project](https://user-images.githubusercontent.com/85597990/138602757-29ceb45b-4620-4719-a781-044b7c8e2f46.png)
+
+------
+
+# First things first
+Before diving too deep into the project itself, first the data needed to be discovered and then cleaned. Through out the last year and half+, data for Covid has been collected, to our surprise in great and detailed numbers. Almost all state-counties-states, but not all, have reported data on the cases and hospitalization rates. One state that does not report numbers like most is Texas. Although they do not have the same data as other States its important to recognize this and not just pretend Texas doesn't exist- By not knowing the cases numbers is a risk in itself.
