@@ -51,6 +51,12 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
+# .DS_Store
+.DS_Store
+
+# dirtycases.csv.zip
+dirtycases.csv.zip
+
 # Translations
 *.mo
 *.pot
