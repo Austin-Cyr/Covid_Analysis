@@ -1,0 +1,3 @@
+# Dashboard Documentation
+We originally wanted to create our visualization in Google Data Studio. After viusalizing geographic data we quickly realized that Google Data Studio did not visualize at the county level. A piece of our analysis is location based and we can get as granular as the county level. Since Google Data Studio only shows county via circles rather than the county's bounaries. It also couldn't differentiate counties with the same name but different state.
+For these technical reasons, we have decided to visualize data through Tableau where county level data can be easily visualized.
