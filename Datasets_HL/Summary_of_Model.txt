@@ -1,7 +1,18 @@
-Description of preliminary data preprocessing
+## Description of preliminary data preprocessing
+For the model, we retrieved datasets from the CDC, the Census, and from University of Wisconsin. The University of Wisconsin has health information for US counties, for the model we kept information
+on smoking, obesity, and excessive drinking. We also retrieved and cleaned information on covid statistics, urban vs rural information, and vaccine prevalence for US counties. We merged the various datasets on the FIPS code
+for each location. 
 
-Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
+## Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
+The first features used in the model were for vaccination information, population density, total covid cases. The first iteration of the model had a different target than the later iterations as well.
+At first, the target was the whether the ratio of covid deaths out of the total deaths in the population was above or below the median for the rest of the counties. The target for later iterations was
+whether the percent of the popluation who had died of covid was above or below the median of other counties. To improve the model, we added median age, obesity percentage, smoking percentage, and percentage of 
+excessive drinkers from each county as additional features. 
 
-Description of how data was split into training and testing sets
+## Description of how data was split into training and testing sets
+For the X, we dropped our target "Percent Population Died by Covid above Median Rate". For Y, we kept only the target column. We used a typical train test split, with a random state of 1.
 
-Explanation of model choice, including limitations and benefits
+## Explanation of model choice, including limitations and benefits
+We chose a balanced random classifier for the model. We decided on an ensemble method, because these tend to create strong supervised learning models. We ran the information with the easy ensemble method and the results
+weren't as strong. One benefit with the chosen model is the ability to see the weighted importance of our features. Knowing which features are the most important predicive factors for deaths by covid is a valuable insight
+to be gleaned from the model.
