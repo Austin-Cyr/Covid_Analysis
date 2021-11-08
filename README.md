@@ -27,11 +27,26 @@ Along with cleaning of data, the creation of Branches is a crucial part of the p
 ## First things first
 Before diving too deep into the project itself, first the data needed to be discovered and then cleaned. Through out the past year and half+, data for Covid has been collected, to our surprise in great and detailed numbers. Almost all state-counties-states, but not all, have reported data on the cases, hospitalization rates and vaccine numbers. 
 
-## Use of Google Data Studio
-We intend to use Google Data Studio to showcase work.
+## Setting up SQLIte Databse
+A SQLite database was created using data found within the "ML Code" branch
+
+-----
+
+![sqlite db code ](https://user-images.githubusercontent.com/85597990/140667901-bdb439d1-b933-4916-a996-7ca8164bdc03.png)
+
+![MLD screenshot](https://user-images.githubusercontent.com/85597990/140667972-19b8fe65-d9e5-437f-8866-f8aa80eaa6d0.png)
+
+![Model MLD Screenshot](https://user-images.githubusercontent.com/85597990/140667980-ac84b80f-1ace-48ff-94aa-587cbde274a2.png)
 
 ------
 
+## Machine Learning 
 
 
-------
+## Tableau is used to create visualations for project
+
+--------
+
+![visual screenshot](https://user-images.githubusercontent.com/85597990/140669789-2b810c30-f591-4a8d-ac3f-35901cd1a236.png)
+
+-------
