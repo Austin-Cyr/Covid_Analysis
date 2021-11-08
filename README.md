@@ -24,10 +24,7 @@ Along with cleaning of data, the creation of Branches is a crucial part of the p
 
 ------
 
-## First things first
-Before diving too deep into the project itself, first the data needed to be discovered and then cleaned. Through out the past year and half+, data for Covid has been collected, to our surprise in great and detailed numbers. Almost all state-counties-states, but not all, have reported data on the cases, hospitalization rates and vaccine numbers. 
-
-## Setting up SQLite Databse
+## Setting up SQLite Database
 A SQLite database was created using data found within the "ML Code" branch
 
 -----
@@ -40,7 +37,7 @@ A SQLite database was created using data found within the "ML Code" branch
 
 ------
 
-## Machine Learning 
+## Machine Learning examples
 
 -------
 
