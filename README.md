@@ -27,7 +27,7 @@ Along with cleaning of data, the creation of Branches is a crucial part of the p
 ## First things first
 Before diving too deep into the project itself, first the data needed to be discovered and then cleaned. Through out the past year and half+, data for Covid has been collected, to our surprise in great and detailed numbers. Almost all state-counties-states, but not all, have reported data on the cases, hospitalization rates and vaccine numbers. 
 
-## Setting up SQLIte Databse
+## Setting up SQLite Databse
 A SQLite database was created using data found within the "ML Code" branch
 
 -----
@@ -42,6 +42,15 @@ A SQLite database was created using data found within the "ML Code" branch
 
 ## Machine Learning 
 
+-------
+
+![Final Balances Random Screenshot](https://user-images.githubusercontent.com/85597990/140670592-8b30f09e-7528-44bb-8ce5-8e4099550603.png)
+
+![ETL ML Data Screenshot](https://user-images.githubusercontent.com/85597990/140670673-8d7574b6-b307-4a1f-b76b-2fcf6e1063e1.png)
+
+![DB Connected Balanced Random Screenshot](https://user-images.githubusercontent.com/85597990/140670778-41b53633-0316-4a5b-8513-fa3defd1544e.png)
+
+-------
 
 ## Tableau is used to create visualations for project
 
