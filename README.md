@@ -4,6 +4,9 @@ Capstone Project for Vanderbilt Data Boot Camp
 ## Google Slides Presentation
 https://docs.google.com/presentation/d/1jRlCDq7_vAeUraetsZKB5SNAORVqNAr-QZyOI9GAj7w/edit?usp=sharing
 
+## Tableau Visualization
+https://public.tableau.com/views/CovidAnalysis_16364307451930/Main?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ## Description of project 
 With Covid being at the forefront of discussion for what feels like an eternity, we are now to the point where many individuals are wanting to branch out from the safety of their home to explore the world. Although a lot of process has been made since the global pandemic first began, there is still a lot of uncertainty. Many states are seeing great progress, while others are not. There are many factors that play into cases going up or down, i.e. masks and vaccines, however many people are not aware of their states case number and the risks that one is taking when stepping outside. This can lead to an uptick in cases. With the creation of a Covid Risk Calculator, our goal as a team is to help individuals weigh the risks of going out in public. With this calculator we hope to help individuals understand Covid numbers better. By understanding you're states number, you can make positive choices that will impact not only your community, but the global community.
 
