@@ -11,7 +11,7 @@ https://public.tableau.com/views/CovidAnalysis_16364307451930/Main?:language=en-
 With Covid being at the forefront of discussion for what feels like an eternity, we are now to the point where many individuals are wanting to branch out from the safety of their home to explore the world. Although a lot of process has been made since the global pandemic first began, there is still a lot of uncertainty. Many states are seeing great progress, while others are not. There are many factors that play into cases going up or down, i.e. masks and vaccines, however many people are not aware of their states case number and the risks that one is taking when stepping outside. This can lead to an uptick in cases. With the creation of a Covid Risk Calculator, our goal as a team is to help individuals weigh the risks of going out in public. With this calculator we hope to help individuals understand Covid numbers better. By understanding you're states number, you can make positive choices that will impact not only your community, but the global community.
 
 ## Communication protocols
-With any group work communication is key. It is very important that all group members understand their role within the group. When starting a group project, the result can be daunting and team members can feel anxious. With proper communication these feeling of anxiety can be eased. By each person knowing and completing their role, the result will be easier to reach. Our main method of communication will be through Slack. By using Slack, we are easily able to instant message everyone at the same time. This ensures that no one is left out of what is being discussed. As a backup, all group members have each other cell phone number incase there is an emergency, and something needs to be addressed fast.
+With any group work communication is key. It is very important that all group members understand their role within the group. When starting a group project, the result can be daunting and team members can feel anxious. With proper communication these feelings of anxiety can be eased. By each person knowing and completing their role, the result will be easier to reach. Our main method of communication will be through Slack. By using Slack, we are easily able to instant message everyone at the same time. This ensures that no one is left out of what is being discussed. As a backup, all group members have each other cell phone number incase there is an emergency.
 
 
 -------
@@ -56,10 +56,13 @@ A SQLite database was created using data found within the "ML Code" branch.
 
 -------
 
-## Tableau is used to create visualations for project
+## Tableau is used to create visualations for predictions
 
 --------
 
-![visual screenshot](https://user-images.githubusercontent.com/85597990/140669789-2b810c30-f591-4a8d-ac3f-35901cd1a236.png)
+![tab1](https://user-images.githubusercontent.com/85597990/142262097-08f3f5d9-5ede-4906-9083-971f6337bb3b.png)
+
+![tab2](https://user-images.githubusercontent.com/85597990/142262129-fecd4ec1-124b-41da-acbc-c088c076af37.png)
+
 
 -------
